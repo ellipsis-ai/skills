@@ -1,0 +1,3 @@
+[submodule "my-calendar"]
+	path = my-calendar
+	url = https://github.com/ellipsis-ai/my-calendar
