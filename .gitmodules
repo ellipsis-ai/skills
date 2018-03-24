@@ -13,3 +13,6 @@
 [submodule "empathetic_bot"]
 	path = empathetic_bot
 	url = https://github.com/ellipsis-ai/empathetic_bot
+[submodule "kudos"]
+	path = kudos
+	url = https://github.com/ellipsis-ai/kudos
