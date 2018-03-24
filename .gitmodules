@@ -25,3 +25,6 @@
 [submodule "time_zones"]
 	path = time_zones
 	url = https://github.com/ellipsis-ai/time_zones
+[submodule "words"]
+	path = words
+	url = https://github.com/ellipsis-ai/words
