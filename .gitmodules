@@ -28,3 +28,6 @@
 [submodule "words"]
 	path = words
 	url = https://github.com/ellipsis-ai/words
+[submodule "blackjack"]
+	path = blackjack
+	url = https://github.com/ellipsis-ai/blackjack
