@@ -4,3 +4,12 @@
 [submodule "github"]
 	path = github
 	url = https://github.com/ellipsis-ai/github
+[submodule "aws"]
+	path = aws
+	url = https://github.com/ellipsis-ai/aws
+[submodule "standup"]
+	path = standup
+	url = https://github.com/ellipsis-ai/standup-with-blockers
+[submodule "empathetic_bot"]
+	path = empathetic_bot
+	url = https://github.com/ellipsis-ai/empathetic_bot
