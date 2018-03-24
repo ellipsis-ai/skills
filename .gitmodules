@@ -16,3 +16,12 @@
 [submodule "kudos"]
 	path = kudos
 	url = https://github.com/ellipsis-ai/kudos
+[submodule "todoist"]
+	path = todoist
+	url = https://github.com/ellipsis-ai/todoist
+[submodule "pivotal_tracker"]
+	path = pivotal_tracker
+	url = https://github.com/ellipsis-ai/pivotal_tracker
+[submodule "time_zones"]
+	path = time_zones
+	url = https://github.com/ellipsis-ai/time_zones
