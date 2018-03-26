@@ -31,3 +31,6 @@
 [submodule "blackjack"]
 	path = blackjack
 	url = https://github.com/ellipsis-ai/blackjack
+[submodule "lunch"]
+	path = lunch
+	url = https://github.com/ellipsis-ai/lunch
