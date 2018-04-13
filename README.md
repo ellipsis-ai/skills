@@ -21,3 +21,12 @@ To update an individual skill to the latest master on that repository, e.g. the 
 1. `git commit -a -m "Synced to latest version of Lunch skill"`
 1. `git push origin update_lunch`
 1. Create a pull request on GitHub
+
+### Create a pull request to add a new skill
+
+1. `git pull origin master` to sync your repo.
+1. `git checkout -b add_some_new_skill` to make a new branch for this change
+1. `git submodule add https://github.com/ellipsis-ai/some_new_skill` to add a new remote repository as a submodule. It will be added to a `some_new_skill` directory by default.
+1. `git commit -a -m "Added Some New Skill"`
+1. `git push origin add_some_new_skill`
+1. Create a pull request on GitHub
