@@ -34,3 +34,6 @@
 [submodule "lunch"]
 	path = lunch
 	url = https://github.com/ellipsis-ai/lunch
+[submodule "qrcode"]
+	path = qrcode
+	url = https://github.com/ellipsis-ai/qrcode
